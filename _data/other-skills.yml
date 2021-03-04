@@ -1,0 +1,16 @@
+- name: Design & Analysis
+  percentage: 60
+  color: info
+
+- name: Research
+  percentage: 70
+  color: success
+  
+- name: MS Office
+  percentage: 70
+  color: info
+
+- name: Project Management
+  percentage: 60
+  color: info
+  

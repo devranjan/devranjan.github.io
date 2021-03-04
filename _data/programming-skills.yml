@@ -1,0 +1,67 @@
+- name: Python
+  percentage: 80
+  color: danger
+
+- name: Tensorflow
+  percentage: 70
+  color: dark
+
+- name: Pytorch
+  percentage: 60
+  color: dark
+
+- name: Scikit-Learn
+  percentage: 80
+  color: dark
+
+- name: SQL
+  percentage: 70
+  color:
+
+- name: HTML
+  percentage: 70
+  color: dark
+
+- name: Cloud Computing
+  percentage: 80
+  color: danger
+
+- name: GCP
+  percentage: 75
+  color:
+
+- name: Nutanix Hybrid Cloud
+  percentage: 70
+  color: dark
+
+- name: AWS
+  percentage: 40
+  color: dark
+
+- name: Machine Learning
+  percentage: 80
+  color:
+
+- name: Deep Learning
+  percentage: 40
+  color: dark
+
+- name: NLP
+  percentage: 60
+  color: danger
+
+- name: Deep Learning
+  percentage: 60
+  color:
+
+- name: Data Visualisations
+  percentage: 75
+  color:
+
+- name: Github
+  percentage: 80
+  color:
+
+- name: Network Security
+  percentage: 60
+  color: dark
